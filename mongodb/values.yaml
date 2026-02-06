@@ -1,0 +1,3 @@
+StatefulSet:
+  imageURL: pardhu72/mongodb
+  imageVersion: v1
