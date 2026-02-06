@@ -1,0 +1,6 @@
+deployment:
+  imageURL: pardhu72/catalogue
+  imageVersion: v1
+autoscale:
+  maxReplicas: 10
+  Utilization: 75

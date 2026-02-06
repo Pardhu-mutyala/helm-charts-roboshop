@@ -1,0 +1,3 @@
+StatefulSet:
+  imageURL: pardhu72/mysql
+  imageVersion: v1
